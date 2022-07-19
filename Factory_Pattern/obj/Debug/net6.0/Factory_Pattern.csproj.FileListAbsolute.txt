@@ -1,0 +1,15 @@
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\bin\Debug\net6.0\Factory_Pattern.exe
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\bin\Debug\net6.0\Factory_Pattern.deps.json
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\bin\Debug\net6.0\Factory_Pattern.runtimeconfig.json
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\bin\Debug\net6.0\Factory_Pattern.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\bin\Debug\net6.0\Factory_Pattern.pdb
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.csproj.AssemblyReference.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.AssemblyInfoInputs.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.AssemblyInfo.cs
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\refint\Factory_Pattern.dll
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.pdb
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\Factory_Pattern.genruntimeconfig.cache
+C:\Users\kongh\OneDrive\Desktop\Repos\Factory_Pattern\Factory_Pattern\obj\Debug\net6.0\ref\Factory_Pattern.dll
